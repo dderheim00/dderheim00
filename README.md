@@ -6,7 +6,7 @@
 
 <br><br>
 
-I am a senior computer science student at Sam Houston State University.
+I am a computer science graduate from Sam Houston State University.
 
 
 
