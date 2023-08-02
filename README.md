@@ -6,7 +6,7 @@
 
 <br><br>
 
-I am a software engineer and I am computer science graduate from Sam Houston State University.
+I am a software engineer. I hold a computer science degree from Sam Houston State University.
 
 
 
@@ -14,4 +14,6 @@ I am a software engineer and I am computer science graduate from Sam Houston Sta
 
 <!--
 **dderheim00/dderheim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Maybe add my programming and computer science interests, such as NLP.
 -->
